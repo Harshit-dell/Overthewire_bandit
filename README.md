@@ -1,6 +1,6 @@
 # OverTheWire 
-Natas & Bandit
-**Pass Key for the Bandit**
+
+**Pass Key for the Natas & Bandit**
 
 [OverTheWire (OTW)](https://overthewire.org/wargames/bandit) is a free and popular online wargame platform. It is designed to teach and help you practice:
 
